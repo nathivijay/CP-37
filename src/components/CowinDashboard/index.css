@@ -1,0 +1,36 @@
+.main-div {
+  background-color: #161625;
+  padding: 20px 5%;
+  width: 100vw;
+  min-height: 100vh;
+}
+
+.logo-div {
+  display: flex;
+  align-items: center;
+  width: 100px;
+}
+
+.logo-div img {
+  width: 24px;
+}
+
+.logo-div h1 {
+  color: #2cc6c6;
+  font-size: 16px;
+  margin-left: 6px;
+}
+
+.main-div-main-head {
+  color: #fff;
+  margin-bottom: 40px;
+  margin-top: 10px;
+}
+
+.loader-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* color: #1c1c2b; */

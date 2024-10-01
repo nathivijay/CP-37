@@ -1,0 +1,16 @@
+.vaccination-div {
+  background-color: #1c1c2b;
+  border-radius: 10px;
+  padding: 40px;
+  margin: auto;
+  margin-bottom: 40px;
+  width: 1100px;
+}
+
+.vaccination-div h1 {
+  font-weight: 500;
+  font-size: 24px;
+  color: #94a3b8;
+  margin-bottom: 40px;
+  margin-top: 0px;
+}
